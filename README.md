@@ -2,9 +2,9 @@
 This python script was an intro to IMAP for me. The goal was to fetch mail from my google account and write out to physical files for parsing later.
 
 ## Development Environment
-Python 2.7.12
-click==6.6
-python-dotenv==0.6.1
+* Python 2.7.12
+* click==6.6
+* python-dotenv==0.6.1
 
 ### .env sample
 ```bash
