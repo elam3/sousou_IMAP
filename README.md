@@ -19,9 +19,10 @@ EMAIL_LABEL=''
 
 ## Demo
 
+[GIF Demo of Script](https://github.com/elam3/sousou_IMAP/blob/master/fetch_mail.gif)
 > **There is a ~20sec "pause" waiting for mail to come in**
 
-![GIF demo of script](fetch_mail.gif)
+![Still image of script](imap_screenshot.png)
 
 ## Resources
 * http://www.voidynullness.net/blog/2013/07/25/gmail-email-with-python-via-imap/
