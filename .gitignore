@@ -1,0 +1,6 @@
+venv
+.env
+email
+getpass
+imaplib
+docs/*
