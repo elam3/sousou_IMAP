@@ -17,6 +17,11 @@ EMAIL_LABEL=''
 
 > Potential Issue: I had to delete the quotes marks on the right hand side because `EMAIL_ADDRESS = os.environ.get("EMAIL_ADDRESS")` included the single-quotes inside the string
 
+## Demo
+
+> **There is a ~20sec "pause" waiting for mail to come in**
+
+![GIF demo of script](fetch_mail.gif)
 
 ## Resources
 * http://www.voidynullness.net/blog/2013/07/25/gmail-email-with-python-via-imap/
