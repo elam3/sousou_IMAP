@@ -73,7 +73,8 @@ for res, mail in mailbox:
     DD = DD if len(DD)==2 else "0"+DD
     filename = 'docs/shipment'+YYYY+MM+DD+'.html'
 
-    with open(filename, 'wb') as f_out:
+    #with open(filename, 'wb') as f_out:
+    with open(filename, 'w') as f_out:
         f_out.write(body)
 #end for
 

@@ -1,0 +1,4 @@
+Try file i/o mode 'w' instead of 'wb'.
+Upgrade authentication method.
+Figure out the unicode decode/encode.
+Upgrade to Python3?
